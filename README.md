@@ -36,6 +36,7 @@
 9. Enhancing Sentiment Analysis based Investment by Large Language Models in Japanese Stock Market
 10. Leveraging Large Language Models and Prompt Settings for Context-Aware Financial Sentiment Analysis
 11. Sentiment spin: Attacking financial sentiment with GPT-3
+12. What do llms know about financial markets? a case study on reddit market sentiment analysis
 
 ## Stock Prediction
 1. Can chatgpt forecast stock price movements? return predictability and large language models
