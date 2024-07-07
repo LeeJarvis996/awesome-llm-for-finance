@@ -47,9 +47,10 @@
 6. MambaStock: Selective state space model for stock prediction
 7. Trend-Heuristic Reinforcement Learning Framework for News-Oriented Stock Portfolio Management
 
-## System
+## System/Agent
 1. Application of Conversational Intelligent Reporting System Based on Artificial Intelligence and Large Language Models
 2. EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities
+3. Data-Copilot Bridging Billions of Data and Humans with Autonomous Workflow
 
 ## Others
 1. Incorporation of company-related factual knowledge into pre-trained language models for stock-related spam tweet filtering
